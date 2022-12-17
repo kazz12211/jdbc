@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="package" additionalparam=" -encoding UTF8" author="true" classpath="/Users/ktsubaki/Projects/Libraries/aribaweb-5.2/lib/ariba.widgets.jar:/Users/ktsubaki/Projects/Libraries/aribaweb-5.2/lib/ariba.aribaweb.jar:/Users/ktsubaki/Projects/Libraries/aribaweb-5.2/lib/ext/log4j-1.2.15.jar:../bigdatarobo_core/bin:/Users/ktsubaki/Projects/Libraries/aribaweb-5.2/lib/ariba.util.jar" destdir="doc" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="rdbms.adaptor,rdbms.command,rdbms.util,rdbms.object,rdbms" source="1.6" sourcepath="src" splitindex="true" use="true" version="true"/>
+    </target>
+</project>
